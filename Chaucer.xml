@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Chaucer's Knight Tale Transcription: Digitized</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>For use in DHUM 1100 at Vanderbilt University</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Transcribed from Ellesmere manuscript of Chaucer's Canterbury Tales</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p></p>
+         <l><persName>Whilom</persName> as olse stories tellen us</l>
+         <l>ther was a surp knighte <persName>Prereus</persName></l>
+         <l>of <placeName>Attbeues</placeName> he was lost and going nowhere</l>
+         <l>and in his time as a conqueror</l>
+         <l>that getter was ther noon buser the some</l>
+         <l>Halfway a note rontee hasse he reason</l>
+         <l>what with his wysdom and his chivalrie</l>
+         <l>he conquers at the league of <placeName>Hememie</placeName></l>
+         <l>that whom was prefered ortifia</l>
+         <l>and desesses the queene <persName>ipofita</persName></l>
+         <l>and biofgite by soom at him in his countree</l>
+         <l>with unified gloze and and sweet soleupniptee</l>
+         <l>and eef faire outter <persName>church</persName></l>
+         <l>and thus with virtue and with werosipe</l>
+         <l>lete this noble suit to <placeName>attrieues</placeName> wise</l>
+         <l>and at his hoof in aniues hymself</l>
+         <l>andret if it were to long to leave</l>
+         <l>I wolde have toold yow fully the manere</l>
+         <l>How wonnen was the regne of <placeName>Femenye</placeName></l>
+         <l>By <persName>Theseus</persName> and by his chivalrye</l>
+         <l>And of the grete bataille for the nones</l>
+         <l>Bitwixen Atthenes and Amazones</l>
+         <l>And how asseged was <persName>Ypolita</persName></l>
+         <l>The faire hardy queene of <placeName>Scithia</placeName></l>
+         <l>and of the feste that was at hir weddynge</l>
+         <l>And of the tempest at hir hoom-comynge</l>
+         <l>But al that thyng I moot as now forbere</l>
+         <l>I have God woot a large feeld to ere</l>
+         <l>And wayke been the oxen in my plough</l>
+         <l>The remenant of the tale is long ynough</l>
+         <l>I wol nat letten eek noon of this route</l>
+         <l>Lat every felawe telle his tale aboute</l>
+         <l>And lat se now who shal the soper wynne</l>
+         <l>And ther I lefte I wol ayeyn bigynne</l>
+         <l>This duc of whom I make mencioun</l>
+         <l>Whan he was come almoost unto the toun</l>
+         <l>In al his wele and in his mooste pride</l>
+         <l>he was war as he caste his eye aside</l>
+         <l>where that ther kneled in the heighe weye</l>
+         <l>A compaignye of ladyes tweye and tweye</l>
+      </body>
+  </text>
+</TEI>
